@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/saamyaaay/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/saamyaaay/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/saamyaaay/leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/saamyaaay/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saamyaaay/leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/saamyaaay/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/saamyaaay/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/saamyaaay/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/saamyaaay/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/saamyaaay/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/saamyaaay/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/saamyaaay/leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/saamyaaay/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/saamyaaay/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
