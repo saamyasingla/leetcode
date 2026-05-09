@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/saamyaaay/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/saamyaaay/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saamyaaay/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2308-divide-array-into-equal-pairs](https://github.com/saamyaaay/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/saamyaaay/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/saamyaaay/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/saamyaaay/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/saamyaaay/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/saamyaaay/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/saamyaaay/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -285,4 +288,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saamyaaay/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saamyaaay/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/saamyaaay/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/saamyaaay/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
